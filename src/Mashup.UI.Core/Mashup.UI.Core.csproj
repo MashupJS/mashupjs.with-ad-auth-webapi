@@ -61,6 +61,7 @@
     <Content Include="gulpfile.js" />
     <Content Include="jshint-output.html" />
     <Content Include="package.json" />
+    <Content Include="src\apps\mashup\~dataServices\authDataService.js" />
     <Content Include="src\core\css\bootstrap\paper\bootstrap.min.css" />
     <Content Include="src\core\lib\glyphicons\glyphicons-halflings-regular.eot" />
     <Content Include="src\core\lib\glyphicons\glyphicons-halflings-regular.ttf" />
